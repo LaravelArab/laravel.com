@@ -1,7 +1,7 @@
 var elixir = require('laravel-elixir');
-
+require('laravel-elixir-rtl-sass');
 elixir(function(mix) {
-    mix.sass('laravel.scss', 'public/assets/css');
+    mix.rtlsass('laravel.scss', 'public/assets/css');
 
     mix.scripts(
         [
