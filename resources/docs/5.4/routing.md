@@ -20,15 +20,17 @@
 <a name="basic-routing"></a>
 ## التوجيه الأساسي
 
-أبسط أشكال التوجيه في لارافيل 
-The most basic Laravel routes simply accept a URI and a `Closure`, providing a very simple and expressive method of defining routes:
+أبسط أشكال التوجيه في لارافيل هو استخدام المُسمى بشكل مباشر في الرابط للوصول إليه، لارافيل توفر طريقة بسيطة لتعريف التوجيهات:
 
     Route::get('foo', function () {
-        return 'Hello World';
+        return 'مرحباً بالعالم';
     });
 
-#### The Default Route Files
+#### ملفات التوجيه الإفتراضية
 
+<p dir='rtl' align='right'>
+جميع أوامر التوجيه في لارافيل تُعرف في ملفات التوجيه الموجودة في المجلد `routes`. هذه الملفات يتم تحميلها بشكل تلقائي بواسطة لارافيل. الملف `routes/web.php` يُعرف التوجيهات الخاصة بواجهة الويب -أي الوصول للتوجيه عبر المُتصفح-. هذه التوجيهات 
+</p>
 All Laravel routes are defined in your route files, which are located in the `routes` directory. These files are automatically loaded by the framework. The `routes/web.php` file defines routes that are for your web interface. These routes are assigned the `web` middleware group, which provides features like session state and CSRF protection. The routes in `routes/api.php` are stateless and are assigned the `api` middleware group.
 
 For most applications, you will begin by defining routes in your `routes/web.php` file.
