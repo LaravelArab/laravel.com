@@ -1,4 +1,3 @@
-<p dir='rtl' align='right'>
 # التوجيه
 
 - [التوجيه الأساسي](#basic-routing)
@@ -29,9 +28,9 @@
 
 #### ملفات التوجيه الإفتراضية
 
-
+<p dir='rtl' align='right'>
 جميع أوامر التوجيه في لارافيل تُعرف في ملفات التوجيه الموجودة في المجلد `routes`. هذه الملفات يتم تحميلها بشكل تلقائي بواسطة لارافيل. الملف `routes/web.php` يُعرف التوجيهات الخاصة بواجهة الويب -أي الوصول للتوجيه عبر المُتصفح-. هذه التوجيهات 
-
+</p>
 All Laravel routes are defined in your route files, which are located in the `routes` directory. These files are automatically loaded by the framework. The `routes/web.php` file defines routes that are for your web interface. These routes are assigned the `web` middleware group, which provides features like session state and CSRF protection. The routes in `routes/api.php` are stateless and are assigned the `api` middleware group.
 
 For most applications, you will begin by defining routes in your `routes/web.php` file.
@@ -314,4 +313,3 @@ You may use the `current`, `currentRouteName`, and `currentRouteAction` methods 
     $action = Route::currentRouteAction();
 
 Refer to the API documentation for both the [underlying class of the Route facade](https://laravel.com/api/{{version}}/Illuminate/Routing/Router.html) and [Route instance](https://laravel.com/api/{{version}}/Illuminate/Routing/Route.html) to review all accessible methods.
-</p>
