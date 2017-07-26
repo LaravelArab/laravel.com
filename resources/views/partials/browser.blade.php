@@ -15,14 +15,13 @@ class Idea extends Eloquent
 {
 
 	/**
-	 * Dreaming of something more?
+	 * تحلم بشيء أكثر من هذا؟
 	 *
-	 * @with Laravel
+	 * @مع لارافال
 	 */
 	 public function create()
 	 {
-	 	// Have a fresh start...
-	 }
+	 	// ابدأ من جديد
 
 }</code></pre>
 	</div>
