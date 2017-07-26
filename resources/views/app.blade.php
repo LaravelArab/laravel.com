@@ -2,10 +2,10 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>{{ isset($title) ? $title . ' - ' : null }}Laravel - The PHP Framework For Web Artisans</title>
+	<title>{{ isset($title) ? $title . ' - ' : null }}لارافال - إطار العمل الخاص بحرفيي الواب</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="author" content="Taylor Otwell">
-	<meta name="description" content="Laravel - The PHP framework for web artisans.">
+	<meta name="description" content="لارافال - إطار العمل الخاص بحرفيي الواب.">
 	<meta name="keywords" content="laravel, php, framework, web, artisans, taylor otwell">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	@if (isset($canonical))
@@ -26,7 +26,7 @@
 	<nav class="main">
 		<a href="/" class="brand nav-block">
 			{!! svg('laravel-logo') !!}
-			<span>Laravel</span>
+			<span>لارافال</span>
 		</a>
 
         <div class="search nav-block">
@@ -53,7 +53,7 @@
 		<ul>
 			@include('partials.main-nav')
 		</ul>
-		<p>Laravel is a trademark of Taylor Otwell. Copyright &copy; Taylor Otwell.</p>
+		<p>لارافال هو علامة تجارية لـتاريلو أوتويل. حقوق النشر &copy; تايلور أوتويل.</p>
 		<p class="less-significant">
             <a href="http://jackmcdade.com">
                 Designed by<br>
