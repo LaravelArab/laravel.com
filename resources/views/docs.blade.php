@@ -10,7 +10,7 @@
 	</div>
 
 	<ul class="slide-main-nav">
-		<li><a href="/">الرئيسية</a></li>
+		<li><a href="/">الرئيسة</a></li>
 		@include('partials.main-nav')
 	</ul>
 
@@ -22,7 +22,6 @@
 </nav>
 
 <div class="docs-wrapper container">
-
 	<section class="sidebar">
 		{!! $index !!}
 	</section>
