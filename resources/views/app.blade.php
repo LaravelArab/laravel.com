@@ -22,7 +22,7 @@
     <div class="laracon-banner">
         <!-- <img src="/assets/svg/laracon-logo.svg" alt=""> -->
         Scaling Laravel, a new video course by Chris Fidao, is now available!
-        <a href="https://courses.serversforhackers.com/scaling-laravel">Get your copy today!</a>
+        <a href="https://courses.serversforhackers.com/scaling-laravel?utm_source=laravel&utm_medium=banner&utm_campaign=scalinglaravel">Get your copy today!</a>
     </div>
     <span class="overlay"></span>
 
