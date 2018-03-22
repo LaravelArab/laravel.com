@@ -23,7 +23,7 @@
         <div class="partner-profile-header clearfix">
             <div class="partner-logo"><img src="/assets/svg/partner-logo-kirschbaum-full.svg"></div>
             <div class="partner-ctas">
-                <a href="mailto:nathan.kirschbaum@gmail.com">
+                <a href="mailto:hello@kirschbaumdevelopment.com">
                     <div class="btn btn-primary">
                         Hire
                         <span class="partner-ctas-visible-desktop">Kirschbaum Development</span>
@@ -63,7 +63,7 @@
                     <h4>Elsewhere</h4>
 
                     <ul class="partner-social-list">
-                        <li><a href="https://github.com/kirschbaum"><img src="/assets/svg/icon-github.svg"></a></li>
+                        <li><a href="https://github.com/kirschbaum-development"><img src="/assets/svg/icon-github.svg"></a></li>
                         <li><a href="https://twitter.com/n_kirschbaum"><img src="/assets/svg/icon-twitter.svg"></li>
                         <li><a href="https://www.linkedin.com/company-beta/11089184/"><img src="/assets/svg/icon-linkedin.svg"></a></li>
                     </ul>
