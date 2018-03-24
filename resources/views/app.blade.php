@@ -21,8 +21,8 @@
 <body class="@yield('body-class', 'docs') language-php">
     <div class="laracon-banner">
         <!-- <img src="/assets/svg/laracon-logo.svg" alt=""> -->
-        Scaling Laravel, a new video course by Chris Fidao, is now available!
-        <a href="https://courses.serversforhackers.com/scaling-laravel?utm_source=laravel&utm_medium=banner&utm_campaign=scalinglaravel">Get your copy today!</a>
+        Spark 6.0, the official SaaS starter-kit built on Laravel, is now available!
+        <a href="https://spark.laravel.com">Get your copy today!</a>
     </div>
     <span class="overlay"></span>
 
