@@ -31,7 +31,7 @@
                 </svg>
             </div>
             <div class="partner-ctas">
-                <a href="mailto:jon@64robots.com"><div class="btn btn-primary">Hire 64robots</div></a>
+                <a href="mailto:jon@64robots.com"><div class="btn btn-primary">Hire 64 Robots</div></a>
                 <a href="https://64robots.com"><div class="btn btn-default">Visit Website</div></a>
             </div>
         </div>
@@ -70,7 +70,7 @@
             </div>
 
             <div class="partner-profile-bio col-md-6">
-                <h2>About 64robots</h2>
+                <h2>About 64 Robots</h2>
                 <h5>We launch your product to the next level.</h5>
 
                 <p>64 Robots is a team of Laravel experts with a background in building successful startups and SaaS products. We specialize in building Laravel APIs, Vue.js single page applications and Quasar framework mobile apps.</p>
