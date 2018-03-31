@@ -102,6 +102,6 @@ class DocsController extends Controller
      */
     protected function isVersion($version)
     {
-        return in_array($version, array_keys(Documentation::getDocVersions()));
+        return array_key_exists($version, Documentation::getDocVersions());
     }
 }
