@@ -41,3 +41,7 @@ Route::get('/partner/64robots', function () {
 Route::get('/partner/cubet', function () {
     return view('community-partner-cubet');
 });
+
+Route::get('/partner/insider', function () {
+    return view('community-partner-insider');
+});
