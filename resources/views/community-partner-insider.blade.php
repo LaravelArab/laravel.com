@@ -23,7 +23,7 @@
         <div class="partner-profile-header clearfix">
             <div class="partner-logo"><img src="/assets/img/partner-img-insider-logo-black.png" width="116" height="53"></div>
             <div class="partner-ctas">
-                <a href="http://useinsider.com/career/"><div class="btn btn-primary">Hire Insider</div></a>
+                <a href="http://useinsider.com/career/"><div class="btn btn-primary">Get Hired</div></a>
                 <a href="https://useinsider.com/"><div class="btn btn-default">Visit Website</div></a>
             </div>
         </div>
