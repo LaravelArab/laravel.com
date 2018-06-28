@@ -83,6 +83,13 @@
                         </div>
                     </a>
 
+                    <a href="/partner/dev-squad" class="partner-card mr-2">
+                        <div class="partner-card-banner partner-card-md partner-logo-banner-devsquad">
+                            <img src="/assets/img/partner-img-devsquad-logo-while.png" style="max-width: 270px;">
+                            <div class="flag">🇺🇸</div>
+                        </div>
+                    </a>
+
 <!--                     <a href="/partner/insider" class="partner-card mr-2">
                         <div class="partner-card-banner partner-card-md partner-logo-banner-insider">
                             <img src="/assets/img/partner-img-insider-logo-white.png" style="max-width: 160px;">
