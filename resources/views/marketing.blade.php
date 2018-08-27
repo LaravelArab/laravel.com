@@ -62,12 +62,12 @@ class Idea extends Eloquent
                 </div>
                 <p>Laravel Horizon provides a beautiful dashboard and code-driven configuration for your Redis queues.</p>
             </a>
-            <a href="/docs/dusk" class="callout minimal third">
+            <a href="https://nova.laravel.com" class="callout minimal third">
                 <div class="callout-head">
-                    <div class="callout-title">Laravel Dusk</div>
-                    <div class="callout-icon">{!! svg('logo-dusk')!!}</div>
+                    <div class="callout-title">Laravel Nova</div>
+                    <div class="callout-icon"><?php echo svg('laravel-nova'); ?></div>
                 </div>
-                <p>Laravel Dusk provides an expressive, easy-to-use browser automation and testing API. You'll love it.</p>
+                <p>Laravel Nova is a beautiful administration panel designed by the creator of Laravel.</p>
             </a>
             <a href="/docs/broadcasting" class="callout minimal third">
                 <div class="callout-head">
