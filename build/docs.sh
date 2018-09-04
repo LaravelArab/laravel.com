@@ -10,6 +10,7 @@ cd ${docs}/5.3 && git pull origin 5.3
 cd ${docs}/5.4 && git pull origin 5.4
 cd ${docs}/5.5 && git pull origin 5.5
 cd ${docs}/5.6 && git pull origin 5.6
+cd ${docs}/5.7 && git pull origin 5.7
 cd ${docs}/master && git pull origin master
 
 cd $base && php artisan docs:clear-cache

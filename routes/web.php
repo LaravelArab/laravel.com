@@ -42,6 +42,10 @@ Route::get('/partner/cubet', function () {
     return view('community-partner-cubet');
 });
 
+Route::get('/partner/dev-squad', function () {
+    return view('community-partner-dev-squad');
+});
+
 // Route::get('/partner/insider', function () {
 //     return view('community-partner-insider');
 // });
